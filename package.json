@@ -1,0 +1,14 @@
+{
+  "name": "creative-agency-website",
+  "version": "1.0.0",
+  "description": "Creative Agency Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Daniel Wieczorek",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
