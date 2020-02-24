@@ -14,7 +14,9 @@ npm run sass
 Use it every time when you are changing main.scss file.
 
 ## Test of Firebase database
-![](readme-gif.gif)
+<p align="center">
+  <img src="readme-gif.gif">
+</p>
 
 ## Live demo
 https://wieczorek-daniel.github.io/creative-agency-website/
