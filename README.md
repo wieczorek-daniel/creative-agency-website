@@ -1,6 +1,6 @@
 # Creative Agency Website
 ## Introduction
-Website of fictitious company (Creative Agency) created by HTML5, CSS3 (Sass CSS preprocessor with SCSS syntax) and JavaScript (connection to Firebase database and scroll handling). 
+Landing page of fictitious company (Creative Agency) created by HTML5, CSS3 (Sass CSS preprocessor with SCSS syntax) and JavaScript (connection to Firebase database and scroll handling). 
 
 ## Setup
 First install the dependencies (node_modules folder) using following command:
